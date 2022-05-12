@@ -1,2 +1,2 @@
 # POO-Intermediary-CSharp
- Básico de POO em c# - Vão ser abordados os conteúdos:
+ **Intermediario de POO em c#** - Vão ser abordados os conteúdos: Enumeração/Enum, Composição, Herança, Polimorfismo e Tratamento de exceções.
