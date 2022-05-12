@@ -1,0 +1,15 @@
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\bin\Debug\net6.0\Enumeracoes-Enum.exe
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\bin\Debug\net6.0\Enumeracoes-Enum.deps.json
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\bin\Debug\net6.0\Enumeracoes-Enum.runtimeconfig.json
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\bin\Debug\net6.0\Enumeracoes-Enum.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\bin\Debug\net6.0\Enumeracoes-Enum.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\Enumeracoes-Enum.csproj.AssemblyReference.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\Enumeracoes-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\Enumeracoes-Enum.AssemblyInfoInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\Enumeracoes-Enum.AssemblyInfo.cs
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\Enumeracoes-Enum.csproj.CoreCompileInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\Enumeracoes-Enum.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\refint\Enumeracoes-Enum.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\Enumeracoes-Enum.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\Enumeracoes-Enum.genruntimeconfig.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Enumeracoes-Enum\Enumeracoes-Enum\obj\Debug\net6.0\ref\Enumeracoes-Enum.dll
